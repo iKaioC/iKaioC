@@ -1,6 +1,6 @@
 ## Hello World!
 
-👨 Meu nome é Kaio Conde, atualmente sou desenvolvedor web focado no back-end<br>
+👨 Meu nome é Kaio Conde, atualmente sou desenvolvedor web focado no back-end, preferencialmente PHP<br>
 ⚙️ Totalmente focado em desenvolvimento web
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikaioc&show_icons=true&theme=radical&hide=prs,issues,contribsl)
