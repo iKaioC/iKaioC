@@ -3,8 +3,8 @@
 👨 Meu nome é Kaio Conde, atualmente sou desenvolvedor web focado no back-end, preferencialmente PHP<br>
 ⚙️ Totalmente focado em desenvolvimento web
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikaioc&show_icons=true&theme=radical&hide=prs,issues,contribsl)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikaioc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ikaioc&show_icons=true&theme=radical&hide=prs,issues,contribsl)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ikaioc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 Minhas Redes Sociais
 
