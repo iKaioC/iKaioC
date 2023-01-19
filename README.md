@@ -1,16 +1,16 @@
 ## Hello World!
 
-👨 Meu nome é Kaio Conde, atualmente sou desenvolvedor web focado no back-end, preferencialmente PHP<br>
-⚙️ Totalmente focado em desenvolvimento web
+👨 My name is Kaio Conde, I'm currently a web developer focused on the backend, preferably PHP<br>
+⚙️ Fully focused on web development
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ikaioc&show_icons=true&theme=radical&hide=prs,issues,contribsl)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ikaioc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 💼 Minhas Redes Sociais
+## 💼 Social Networks
 
 Em breve...
 
-## 🤖 Minhas Linguagens de Programação
+## 🤖 Programming Languages
 
 <div>
   <img align="center" alt="Kaio-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
