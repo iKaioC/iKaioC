@@ -8,7 +8,7 @@
 
 ## 💼 Social Networks
 
-Em breve...
+Coming soon...
 
 ## 🤖 Programming Languages
 
