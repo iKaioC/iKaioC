@@ -1,12 +1,42 @@
-## Hello World!
+## 📊 Stats
 
-👨 My name is Kaio Conde, I'm currently a web developer focused on backend, however, with vast knowledge in front-end languages. My language preference is PHP<br>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=iKaioC&show_icons=true&theme=dark&hide_border=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKaioC&layout=compact&theme=dark&hide_border=true&langs_count=8"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-⚙️ Totally focused on the Web Development area. Always striving to use the PHP language and its frameworks.
+## 👋 Hello
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iKaioC&show_icons=true)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ikaioc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm **Kaio Conde**, a **software developer with nearly 10 years of experience**, strongly focused on **backend development**, while maintaining solid expertise in **front-end technologies**.
 
-## 💼 Social Networks
+Throughout my career, I've worked on a wide range of web projects — from small systems to complex, scalable applications — always prioritizing **clean code**, **performance**, and **maintainability**.
 
-<b>Website:</b> https://kaioconde.dev
+My core expertise is **PHP and its ecosystem**, but I’m comfortable working across the stack whenever the project requires it.
+
+---
+
+## 🚀 Professional Focus
+
+- 🧠 Backend-first mindset with full-stack capabilities  
+- ⚙️ API design, system architecture & performance  
+- 🔐 Security-aware and server-authoritative approaches  
+- 🧩 Clean Architecture & best practices  
+- 🛠 Long-term maintainable solutions  
+
+---
+
+## 🌐 Social & Links
+
+- 🌍 Website: **https://kaioconde.dev**
