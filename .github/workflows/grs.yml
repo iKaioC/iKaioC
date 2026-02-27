@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=iKaioC&show_icons=true&theme=dark&hide_border=true
+          options: username=iKaioC&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage&rank_icon=github
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=iKaioC&layout=compact&theme=dark&hide_border=true&langs_count=8
+          options: username=iKaioC&layout=compact&theme=dark&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
