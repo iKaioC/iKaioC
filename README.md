@@ -1,21 +1,9 @@
 ## 📊 Stats
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=iKaioC&show_icons=true&theme=dark&hide_border=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKaioC&layout=compact&theme=dark&hide_border=true&langs_count=8"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+<p>
+  <img height="180" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
 
 ## 👋 Hello
 
